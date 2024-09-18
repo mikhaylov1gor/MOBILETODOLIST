@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOBILE-TODOLIST</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="mobile_todolist">MOBILE-TODOLIST</string>
+    <string name="task_description">Task Description</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+</resources>
